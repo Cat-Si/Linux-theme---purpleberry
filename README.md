@@ -1,6 +1,6 @@
 # Linux-theme---purpleberry
 
-## Colourway created using [Themix oomax] (https://github.com/themix-project/oomox.git) 
+Colourway created using [Themix oomax](https://github.com/themix-project/oomox.git) 
 
 Includes themes for xfwm4, OB3, metalcity, cinnamon, gtx2,3,3.2. Image shows theme on xfwm4 with standard therminal white on black theme. 
 
