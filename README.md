@@ -1,3 +1,4 @@
 Linux-theme---purpleberry
 
-![alt text](https://github.com/[Cat-Si]/[Linux-theme---purpleberry]/blob/[master]/purpleberry.xcf?raw=true)
+![Screenshot image import](https://raw.githubusercontent.com/Cat-Si/Linux-theme---purpleberry/master/screenshots/purpleberry.png "Screenshot image import")
+
