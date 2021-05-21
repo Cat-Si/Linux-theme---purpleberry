@@ -8,5 +8,6 @@ Image shows theme on xfwm4 with standard therminal white on black theme.
 ![Screenshot image import](https://raw.githubusercontent.com/Cat-Si/linuxtheme_purpleberry/master/screenshots/purpleberry.png "Screenshot image import")
 
 To install theme clone git into your ~./themes folder, then follow your distrubution settings for applying themes. 
- 
- `  git clone https://github.com/Cat-Si/linuxtheme_purpleberry ~/.themes  ` 
+ ```
+   git clone https://github.com/Cat-Si/linuxtheme_purpleberry ~/.themes  
+   ```
